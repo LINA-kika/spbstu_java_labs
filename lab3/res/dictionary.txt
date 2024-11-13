@@ -1,0 +1,8 @@
+apple|яблоко
+pineapple|ананас
+look|смотреть
+look forward|ожидать
+look forward out|предвкушая что-то
+grape|виноград
+look up|высматривать
+hungry|голодный
